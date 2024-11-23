@@ -1,7 +1,6 @@
 # app-dev
 My first Repository
 
-
 ## Fav Movies
 1. Lilo and Stitch
 2. Aladdin
